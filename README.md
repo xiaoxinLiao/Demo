@@ -1,2 +1,0 @@
-# Demo
-my first project
